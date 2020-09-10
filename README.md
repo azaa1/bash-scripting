@@ -1,7 +1,7 @@
 # Bash Scripting for SysAdmins
 ---
 <p align="center">
-  <img width="200" height="150" src="img/bash.png">
+  <img width="300" height="250" src="img/bash.png">
 </p>
 
 ## What is Bash Script?
