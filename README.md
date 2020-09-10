@@ -17,7 +17,7 @@ Writing our first basic bash shell script. Using any text editor create a file c
 echo "hello world"
 ```
 
-Run your script. 
+Run your script:
 
 ```
 bash helloworld.sh
@@ -36,6 +36,6 @@ bash helloworld.sh
 
 ## Contributing
 
-## Authors and acknowledgment
+## Authors and Acknowledgment
 
-## Projcet Status
+## Project Status
