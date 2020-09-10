@@ -1,20 +1,23 @@
-# bash scripts for unix-linux sys-admins
+# Bash Scripting for SysAdmins
 ---
+<p align="center">
+  <img width="200" height="150" src="img/bash.png">
+</p>
 
-### 1. backup.sh
+## What is Bash Script?
 
-* Backing up MySQL DB
+## Usage
+ 
+## Folders
 
-### 2. bashsysinfo_func.sh
+| Folder  | Description |
+| ------------- | ------------- |
+| [simplescripts](simplescripts)  | Basics of Bash Scripting  |
+| [tasks](tasks)  | Simple Bash tasks/challenges |
+| [scripts](scripts) | Sample Scripts |
 
-* Gathering System Information
-* uname
-* df -h
+## Contributing
 
-### 3. check-crontab.sh
+## Authors and acknowledgment
 
-* Check system for crontabs set by all users
-
-### 4. find_pid.sh
-
-* Find all the stopped processes 
+## Projcet Status
