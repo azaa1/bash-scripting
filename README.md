@@ -10,7 +10,7 @@
 
 ## Hello World Bash Shell Script
 
-Writing our first basic bash shell script. Using any text editor create a file called ```helloworld.sh```, add the following code.
+Writing your first, basic bash shell script. Using any text editor create a file called ```helloworld.sh```, add the following code.
 ```
 #!/bin/bash
 
